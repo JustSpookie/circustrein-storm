@@ -1,0 +1,15 @@
+C:\Users\storm\source\repos\circustrein\circustrein\bin\Debug\net6.0\circustrein.exe
+C:\Users\storm\source\repos\circustrein\circustrein\bin\Debug\net6.0\circustrein.deps.json
+C:\Users\storm\source\repos\circustrein\circustrein\bin\Debug\net6.0\circustrein.runtimeconfig.json
+C:\Users\storm\source\repos\circustrein\circustrein\bin\Debug\net6.0\circustrein.dll
+C:\Users\storm\source\repos\circustrein\circustrein\bin\Debug\net6.0\circustrein.pdb
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.AssemblyInfoInputs.cache
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.AssemblyInfo.cs
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.dll
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\refint\circustrein.dll
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.pdb
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\circustrein.genruntimeconfig.cache
+C:\Users\storm\source\repos\circustrein\circustrein\obj\Debug\net6.0\ref\circustrein.dll
